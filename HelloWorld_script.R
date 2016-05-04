@@ -1,13 +1,26 @@
 #make your first calculation
 1 + 2
 
+#you will see that in the R console the result of running this line of code will give us an output of:  [1] 3
+#the [1] simply means that this is the first output from your code
+#the 3 is the resulting value from your 1 +  2 code
+
+#try getting an output of 10 by writing your own mathematical equation below
+
+
+
+#we can also get an output that uses letters and punctuation
 #say your first words
-"hello, world"
+"hello, world!"
+
+#note that when using words 
 
 #learning syntax
 
+#like a natural language, code relies on a system to structure our expressions
 #we use commands/functions to say what we would like to do, such as simple calculations or more complex statistics
 #this is different to clicking buttons, instead we type the command/function to get an output
+
 #commands/functions normally take the form of:
 #     function_name(argument1, argument2, ... )
 #where the arguments are things you are referring to
